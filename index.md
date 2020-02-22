@@ -9,5 +9,7 @@ My favorite accomplishment (thus far!) is earning a Knuth Reward Check regarding
 <h2>Other Web Presence...</h2>
 <a href="https://linkedin.com/in/sschoellerSTEM">My LinkedIn</a><br>
 <a href="https://sschoellerSTEM.blogspot.com">My Blog</a><br>
-<a href="https://www.goodreads.com/sschoellerstem">My Goodreads profile</a>
+<a href="https://www.goodreads.com/sschoellerstem">My Goodreads profile</a><br>
+<br>
+<a href="https://github.com/sschoellerSTEM">&lt;-GitHub</a>
 </body>
