@@ -1,12 +1,4 @@
-<html>
-<head>
-<title>The Homepage of Scott Schoeller (sschoellerSTEM)</title>
-<style type="text/css">
-span.book {font-style: italic;}
-</style>
-</head>
 <body>
-
 <h1>Welcome to my homepage!</h1><br>
 <br>
 <h2>About Me...</h2>
@@ -18,4 +10,3 @@ My favorite accomplishment (thus far!) is earning a Knuth Reward Check regarding
 <a href="https://linkedin.com/in/sschoellerSTEM">My LinkedIn</a><br>
 <a href="https://sschoellerSTEM.blogspot.com">My Blog</a><br>
 </body>
-</html>
