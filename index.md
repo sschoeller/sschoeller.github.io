@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <head>
 <title>The Homepage of Scott Schoeller (sschoellerSTEM)</title>
