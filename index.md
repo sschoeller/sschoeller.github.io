@@ -7,9 +7,11 @@ In addition to my current work on my bioinformatics thesis, I have been co-publi
 My favorite accomplishment (thus far!) is earning a Knuth Reward Check regarding Volume 1 of <i>The Art of Computer Programming</i>.</p> 
 <p>Additional achievements include membership in The Honor Society of Phi Kappa Phi and various scholarships.</p><br>
 <h2>Other Web Presence...</h2>
-<a href="https://www.linkedin.com/in/sschoellerSTEM">My LinkedIn</a><br>
+<a href="https://www.linkedin.com/in/sschoellerSTEM">My LinkedIn Profile</a><br>
 <a href="https://sschoellerSTEM.blogspot.com">My Blog</a><br>
 <a href="https://www.goodreads.com/sschoellerstem">My Goodreads Profile</a><br>
 <br>
-<a href="https://github.com/sschoellerSTEM">&lt;-GitHub</a>
+<a href="mailto:sschoellerSTEM@pm.me">Contact me!</a> (ECC communication available)*<br>
+*I currently have an outgoing email quota of 150 messages per day<br> 
+<a href="https://github.com/sschoellerSTEM">&lt;-GitHub</a><br>
 </body>
