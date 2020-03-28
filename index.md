@@ -11,7 +11,7 @@ My favorite accomplishment (thus far!) is earning a Knuth Reward Check regarding
 <a href="https://sschoellerSTEM.blogspot.com">My Blog</a><br>
 <a href="https://www.goodreads.com/sschoellerstem">My Goodreads Profile</a><br>
 <br>
-<a href="mailto:sschoellerSTEM@pm.me">Contact me!</a> (ECC communication available)*<br>
+<a href="mailto:sschoellerSTEM@pm.me">Contact me!</a> (Encrypted communication available)*<br>
 *I currently have an outgoing email quota of 150 messages per day<br>
 <br>
 <a href="https://github.com/sschoellerSTEM">&lt;-GitHub</a><br>
