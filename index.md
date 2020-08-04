@@ -6,7 +6,7 @@
 In addition to my current work on my bioinformatics thesis, I have been co-published three times in the field of protein biochemistry.
 My favorite accomplishment (thus far!) is earning a Knuth Reward Check regarding Volume 1 of <i>The Art of Computer Programming</i>.</p> 
 <p>Additional achievements include membership in The Honor Society of Phi Kappa Phi and various scholarships.</p><br>
-<iframe src="https://drive.google.com/file/d/1NDO06h8JYRQKnt1zMERhviXTVNw9Fc1R/preview" width="640" height="480"></iframe>
+<a href="https://drive.google.com/file/d/1NDO06h8JYRQKnt1zMERhviXTVNw9Fc1R/preview" width="640" height="480">Slideshow with more about my background</a>
 <br>
 <h2>Other Web Presence...</h2>
 <a href="https://www.linkedin.com/in/sschoellerSTEM">My LinkedIn Profile</a><br>
