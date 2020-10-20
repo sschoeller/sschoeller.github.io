@@ -12,9 +12,7 @@ My favorite accomplishment (thus far!) is earning a Knuth Reward Check regarding
 <a href="https://www.linkedin.com/in/sschoellerSTEM">My LinkedIn Profile</a><br>
 <a href="https://sschoellerSTEM.blogspot.com">My Blog</a><br>
 <a href="https://www.goodreads.com/sschoellerstem">My Goodreads Profile</a><br>
-<br>
-<a href="mailto:sschoellerSTEM+info@pm.me">Contact me!</a>*<br>
-*I currently have an outgoing quota of 1,000 emails in a given day.<br>
+<a rel="me" href="https://noc.social/@sschoellerSTEM">My Mastodon Profile</a><br>
 <br>
 <a href="https://github.com/sschoellerSTEM">&lt;-GitHub</a><br>
 </body>
