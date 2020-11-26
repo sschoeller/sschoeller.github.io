@@ -16,5 +16,7 @@ My favorite accomplishments (thus far!) surround earning two Knuth Reward Checks
 <a href="https://www.goodreads.com/sschoellerstem">My Goodreads Profile</a><br>
 <a rel="me" href="https://noc.social/@sschoellerSTEM">My Mastodon Profile</a><br>
 <br>
-<a href="https://github.com/sschoellerSTEM">&lt;-GitHub</a><br>
+<form action="https://github.com/sschoellerSTEM">
+<button type="submit">&lt;-GitHub</button>
+</form>
 </body>
