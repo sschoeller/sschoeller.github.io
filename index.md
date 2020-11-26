@@ -4,8 +4,8 @@
 <h2>About Me...</h2>
 <p>I am well-rounded in scientific subjects, especially biology, chemistry and environmental studies, and last but not least, computer science!
 In addition to my current work on my bioinformatics thesis, I have been <a href="pubs.html">co-published three times</a> in the field of protein biochemistry.
-My favorite accomplishments (thus far!) surround earning two Knuth Reward Checks. The corrected books were Volume 1 and Volume 1 Fascicle 1 of <i><a href="https://www-cs-faculty.stanford.edu/~knuth/taocp.html">The Art of Computer Programming</a></i>, as well as <i>Selected Papers on Design of Algorithms</i>.</p> 
-<p>Additional achievements include membership in The Honor Society of Phi Kappa Phi and various scholarships.</p><br>
+My favorite accomplishments (thus far!) surround earning two Knuth Reward Checks. The corrected books were Volume 1 and Volume 1 Fascicle 1 of <i><a href="https://www-cs-faculty.stanford.edu/~knuth/taocp.html">The Art of Computer Programming</a></i>, as well as <i><a href="https://www-cs-faculty.stanford.edu/~knuth/da.html">Selected Papers on Design of Algorithms</a></i>.</p> 
+<p>Additional achievements include membership in <a href="https://www.phikappaphi.org/">The Honor Society of Phi Kappa Phi</a> and various scholarships.</p><br>
 <a href="https://drive.google.com/file/d/1NDO06h8JYRQKnt1zMERhviXTVNw9Fc1R/preview" width="640" height="480">My Background</a> (slideshow)<br>
  <a href="knuthkorner.html">My Library</a><br>
 <a href="favlinks.html">Favorites</a><br>
