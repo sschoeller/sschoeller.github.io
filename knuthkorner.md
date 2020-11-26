@@ -8,4 +8,6 @@ and <i>Selected Papers on Design of Algorithms</i>.
 However, I add books by additional computer scientists and software engineers to maintain a decent collection of viewpoints.</p>
 <br>
 <br>
-<a href="https://sschoellerstem.github.io">&lt;Back to my homepage</a>
+<form action="https://sschoellerstem.github.io">
+  <button type="submit">&lt;-Back to my homepage</button>
+</form>
