@@ -17,6 +17,6 @@ My favorite accomplishments (thus far!) surround earning two Knuth Reward Checks
 <a rel="me" href="https://noc.social/@sschoellerSTEM">My Mastodon Profile</a><br>
 <br>
 <form action="https://github.com/sschoellerSTEM">
-<button type="submit" style="color:violet">&lt;-GitHub</button>
+<button type="submit" style="background-color:violet;color:whitesmoke">&lt;-GitHub</button>
 </form>
 </body>
