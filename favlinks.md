@@ -12,4 +12,6 @@
 <br>
 <a href="https://catless.ncl.ac.uk/Risks/">RISKS Digest</a>
 <br><br>
-<a href="https://sschoellerstem.github.io">&lt;-Back to my homepage</a>
+<form action="https://sschoellerstem.github.io">
+  <button type="submit">&lt;-Back to my homepage</button>
+</form>
