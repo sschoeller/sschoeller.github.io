@@ -4,9 +4,13 @@
 <br>
 <a href="https://www.devuan.org/">Devuan</a>
 <br>
+<a href="https://erikdemaine.org/">Erik Demaine's Website</a>
+<br>
 <a href="https://www.cs.utexas.edu/users/EWD/">The E.W. Dijkstra Archive</a>
 <br>
-<a href="https://www-cs-faculty.stanford.edu/~knuth/">Knuth's Homepage</a>
+<a href="https://www-cs-faculty.stanford.edu/~knuth/">Don Knuth's Homepage</a>
+<br>
+<a href="https://billnye.com/">Bill Nye's Website</a>
 <br>
 <a href="https://www.openbsd.org/">OpenBSD</a>
 <br>
