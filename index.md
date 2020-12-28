@@ -1,5 +1,5 @@
 <body>
-<h1>Welcome to the Homepage of Scott Schoeller!</h1><br>
+<!--<h1>Welcome to the Homepage of Scott Schoeller!</h1><br>-->
 <br>
 <h2>About Me...</h2>
 <p>I am well-rounded in scientific subjects, especially biology, chemistry and environmental studies, and last but not least, computer science!
