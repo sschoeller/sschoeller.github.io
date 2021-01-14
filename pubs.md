@@ -9,6 +9,6 @@
 <i>My thesis defense is upcoming. Stay tuned...</i><br>
 <br>
 <form action="https://sschoellerstem.github.io">
-  <button type="submit" style="background-color:blueviolet;color:whitesmoke">&lt;-Back to my homepage</button>
+  <button type="submit" style="background-color:#0000ff;color:whitesmoke">&lt;-Back to my homepage</button>
 </form>
 </body>
