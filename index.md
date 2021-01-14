@@ -25,6 +25,6 @@ Bachelor of Science, Chemistry, UW-Whitewater (Dec 2014)<br>
 <a rel="me" href="https://noc.social/@sschoellerSTEM">My Mastodon Profile</a><br>
 <br>
 <form action="https://github.com/sschoellerSTEM">
-<button type="submit" style="background-color:blueviolet;color:whitesmoke">&lt;-GitHub</button>
+<button type="submit" style="background-color:#0000ff;color:whitesmoke">&lt;-GitHub</button>
 </form>
 </body>
