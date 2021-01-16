@@ -9,11 +9,13 @@ My favorite accomplishments (thus far!) surround earning two <a href="https://en
 <img src="Check2.jpg" width="35%">&nbsp;<img src="Check1.jpg" width="35%">
  </div>
 <p>Additional achievements include membership in <a href="https://www.phikappaphi.org/">The Honor Society of Phi Kappa Phi</a> and various scholarships.</p><br>
+
 <h3>Education</h3>
 Master of Science, Computer Science, UW-Whitewater (expected May 2021)<br>
 Minor, Computer Science, UW-Whitewater (May 2018)<br>
 Bachelor of Science, Chemistry, UW-Whitewater (Dec 2014)<br>
-<br>
+
+<h3>For More Information...</h3> 
 <a href="https://drive.google.com/file/d/1NDO06h8JYRQKnt1zMERhviXTVNw9Fc1R/preview" width="640" height="480">My Background</a> (slideshow)<br>
 <a href="knuthkorner.html">My Library</a><br>
 <a href="favlinks.html">Favorites</a><br>
