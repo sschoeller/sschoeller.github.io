@@ -4,7 +4,7 @@
 <h2>About Me...</h2>
 <p>I am well-rounded in scientific subjects, especially biology, chemistry and environmental studies, and last but not least, computer science!
 In addition to my current work on my bioinformatics thesis, I have been <a href="pubs.html">co-published three times</a> in the field of protein biochemistry.
-My favorite accomplishments (thus far!) surround earning three <a href="https://en.wikipedia.org/wiki/Knuth_reward_check">Knuth Reward Checks</a>. The corrected books were Volume 1 and Volume 1 Fascicle 1 of <i><a href="https://www-cs-faculty.stanford.edu/~knuth/taocp.html">The Art of Computer Programming</a></i>,<i><a href="https://www-cs-faculty.stanford.edu/~knuth/da.html">Selected Papers on Design of Algorithms</a></i>, as well as <i><a href="https://www-cs-faculty.stanford.edu/~knuth/cs.html">Selected Papers on Computer Science</a></i>.</p>
+My favorite accomplishments (thus far!) surround earning three <a href="https://en.wikipedia.org/wiki/Knuth_reward_check">Knuth Reward Checks</a>. The corrected books were Volume 1 and Volume 1 Fascicle 1 of <i><a href="https://www-cs-faculty.stanford.edu/~knuth/taocp.html">The Art of Computer Programming</a></i>, <i><a href="https://www-cs-faculty.stanford.edu/~knuth/da.html">Selected Papers on Design of Algorithms</a></i>, as well as <i><a href="https://www-cs-faculty.stanford.edu/~knuth/cs.html">Selected Papers on Computer Science</a></i>.</p>
 <div style="float:center">
 <img src="Check3.jpg" width="20%">&nbsp;<img src="Check2.jpg" width="20%">&nbsp;<img src="Check1.jpg" width="20%">
  </div>
