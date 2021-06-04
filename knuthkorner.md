@@ -6,8 +6,8 @@ This collection, sitting near the corner of my desk, is intended to contain time
 <i>The Art of Computer Programming</i> (partial set), <i>Selected Papers on Computer Languages</i>, <i>Selected Papers on Computer Science</i> 
 and <i>Selected Papers on Design of Algorithms</i>. 
 However, I add books by additional computer scientists and software engineers to maintain a decent collection of viewpoints.</p>
-<br>
+<!--<br>
 <br>
 <form action="https://sschoellerstem.github.io">
-  <button type="submit" style="background-color:#0000ff;color:whitesmoke">&lt;-Back to my homepage</button>
+  <button type="submit" style="background-color:#0000ff;color:whitesmoke">&lt;-Back to my homepage</button>-->
 </form>
