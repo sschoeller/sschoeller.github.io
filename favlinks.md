@@ -17,9 +17,9 @@
 <br>
 <a href="https://billnye.com/">Bill Nye's Website</a>
 <br>
-<a href="http://cs.uww.edu/~osterz/">Zach Oster's Homepage</a>
+<!--<a href="http://cs.uww.edu/~osterz/">Zach Oster's Homepage</a>
 <br>
 <br>
 <form action="https://sschoellerstem.github.io">
-  <button type="submit" style="background-color:#0000ff;color:whitesmoke">&lt;-Back to my homepage</button>
+  <button type="submit" style="background-color:#0000ff;color:whitesmoke">&lt;-Back to my homepage</button>-->
 </form>
