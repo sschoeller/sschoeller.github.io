@@ -17,9 +17,10 @@ Bachelor of Science, Chemistry, UW-Whitewater, Dec 2014<br>
 <br>
 <h3>For More Information...</h3> 
 <a href="https://drive.google.com/file/d/1NDO06h8JYRQKnt1zMERhviXTVNw9Fc1R/preview" width="640" height="480">My Background</a> (slideshow)<br>
+<a href="https://drive.protonmail.com/urls/EGEMSKMFEG#SPYNWI7eKijx">My Resume</a><br>
 <a href="knuthkorner.html">My Library</a><br>
+ <a href="hobbies.html">Hobbies</a><br>
 <a href="favlinks.html">Favorite Links</a><br>
-<a href="hobbies.html">Hobbies</a><br>
 <br>
 <h2>Other Web Presence...</h2>
 <a href="https://www.linkedin.com/in/sschoellerSTEM">My LinkedIn Profile</a><br>
