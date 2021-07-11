@@ -17,7 +17,7 @@ Bachelor of Science, Chemistry, UW-Whitewater, Dec 2014<br>
 <br>
 <h3>For More Information...</h3> 
 <a href="https://drive.google.com/file/d/1NDO06h8JYRQKnt1zMERhviXTVNw9Fc1R/preview" width="640" height="480">My Background</a> (slideshow)<br>
-<!--Resume placeholder-->
+<a href="https://drive.google.com/file/d/1dVYJeVKu_Lk_8vBKNLqGndjs38MPg8-c/view?usp=sharing">My Internet Resusme</a><br>
 <a href="knuthkorner.html">My Library</a><br>
  <a href="hobbies.html">Hobbies</a><br>
 <a href="favlinks.html">Favorite Links</a><br>
