@@ -10,7 +10,7 @@ My favorite accomplishments (thus far!) surround earning three <a href="https://
 <p>Additional achievements include membership in <a href="https://www.phikappaphi.org/">The Honor Society of Phi Kappa Phi</a> and various scholarships.</p><br>
 
 <h3>Education</h3>
-Master of Science, Computer Science, UW-Whitewater, May 2021<br>
+ Master of Science, Computer Science, <a href="https://www.uww.edu/">UW-Whitewater</a>, May 2021<br>
 Minor, Computer Science, UW-Whitewater, May 2018<br>
 Bachelor of Science, Chemistry, UW-Whitewater, Dec 2014<br>
 
