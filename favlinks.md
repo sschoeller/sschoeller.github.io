@@ -8,14 +8,12 @@
 <br>
 <a href="https://catless.ncl.ac.uk/Risks/">RISKS Digest</a>
 <br>
-<h3>Scientists &amp; Mathematicians</h3>
+<h3>Computer Scientists</h3>
 <a href="https://erikdemaine.org/">Erik Demaine's Website</a>
 <br>
 <a href="https://www.cs.utexas.edu/users/EWD/">The E.W. Dijkstra Archive</a>
 <br>
 <a href="https://www-cs-faculty.stanford.edu/~knuth/">Don Knuth's Homepage</a>
-<br>
-<a href="https://billnye.com/">Bill Nye's Website</a>
 <br>
 <a href="http://cs.uww.edu/~osterz/">Zach Oster's Homepage</a>
 <br>
