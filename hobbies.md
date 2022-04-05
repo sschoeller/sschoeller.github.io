@@ -4,4 +4,4 @@
 3. Gradually working on the goal of reading Vol. 1 of <a href="https://www-cs-faculty.stanford.edu/~knuth/taocp.html">TAOCP</a> in full (I'm about 1/4 finished!)<br />
 4. History (Boston, Gettysburg, Philadelphia, Washington D.C.)<br />
 5. Watching science documentaries<br />
-6. Foreign language study
+6. <a href-"https://www.duolingo.com/profile/sschoellerSTEM">Foreign language study</a>
