@@ -28,7 +28,6 @@ Bachelor of Science, Chemistry, UW-Whitewater, Dec 2014<br>
 <a href="https://twitter.com/sschoellerSTEM">My Twitter Profile</a><br>
 <a rel="me" href="https://noc.social/@sschoellerSTEM">My Mastodon Profile</a><br>
 <a href="https://www.duolingo.com/profile/sschoellerSTEM">My Duolingo Profile</a><br>
-<a href="https://www.youtube.com/channel/UCXdUN81TqbiyBG-Trho6uVQ">My Youtube Channel</a><br>
 <br>
 <form action="https://github.com/sschoellerSTEM">
 <button type="submit" style="background-color:#0000ff;color:whitesmoke">&lt;-GitHub</button>
