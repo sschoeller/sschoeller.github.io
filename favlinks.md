@@ -18,9 +18,3 @@
 <a href="https://billnye.com/">Bill Nye's Website</a>
 <br>
 <a href="http://cs.uww.edu/~osterz/">Zach Oster's Homepage</a>
-<br>
-<h3>Tor Versions of Mainstream Websites</h3>
-<a href="https://www.bbcnewsd73hkzno2ini43t4gblxvycyac5aw4gnv7t2rccijh7745uqd.onion/">BBC News</a><br>
-<a href="https://www.facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion/">Facebook</a><br>
-<a href="http://p53lf57qovyuvwsc6xnrppyply3vtqm7l6pcobkmyqsiofyeznfu5uqd.onion/">ProPublica</a><br>
-<a href="https://protonmailrmez3lotccipshtkleegetolb73fuirgj7r4o4vfu7ozyd.onion/">ProtonMail</a><br>
