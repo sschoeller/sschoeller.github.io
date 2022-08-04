@@ -8,7 +8,7 @@
 <br>
 <a href="https://catless.ncl.ac.uk/Risks/">RISKS Digest</a>
 <br>
-<a href="https://dl.acm.org">ACM Digital Library</a> (Some back articles have now been made available!)
+<a href="https://dl.acm.org">ACM Digital Library</a> (Some back articles have now been made generally available!)
 <br>
 <h3>Scientists</h3>
 <a href="https://erikdemaine.org/">Erik Demaine's Website</a>
