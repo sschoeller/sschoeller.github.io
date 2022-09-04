@@ -32,7 +32,7 @@ Bachelor of Science, Chemistry, UW-Whitewater, Dec 2014<br>
 <br>
 <h2>Contact Information</h2>
 <a href="https://matrix.org/">Matrix</a>: @sschoellerstem:matrix.org (preferred)<br>
-<img src="Screenshot from 2022-09-04%2011-19-57.png"><br>
+Phone:&nbsp;<img src="Screenshot from 2022-09-04%2011-19-57.png"> (I tend to screen my calls)<br>
 <form action="https://github.com/sschoellerSTEM">
 <button type="submit" style="background-color:#0000ff;color:whitesmoke">&lt;-GitHub</button>
 </form>
