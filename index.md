@@ -31,8 +31,8 @@ Bachelor of Science, Chemistry, UW-Whitewater, Dec 2014<br>
 <a href="https://www.duolingo.com/profile/sschoellerSTEM">My Duolingo Profile</a><br>
 <br>
 <h2>Contact Information</h2>
-<a href="https://matrix.org/">Matrix</a>: @sschoellerstem:matrix.org<br> (preferred)<br>
-Google Voice:
+<a href="https://matrix.org/">Matrix</a>: @sschoellerstem:matrix.org (preferred)<br>
+<img src="https://github.com/sschoellerSTEM/sschoellerSTEM.github.io/blob/sschoellerSTEM-patch-1/Screenshot%20from%202022-09-04%2011-19-57.png"></img>
 <br>
 <form action="https://github.com/sschoellerSTEM">
 <button type="submit" style="background-color:#0000ff;color:whitesmoke">&lt;-GitHub</button>
