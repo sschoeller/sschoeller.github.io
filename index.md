@@ -10,7 +10,7 @@ My favorite accomplishments (thus far!) surround earning three <a href="https://
 <p>Additional achievements include membership in <a href="https://www.phikappaphi.org/">The Honor Society of Phi Kappa Phi</a> and various scholarships.</p><br>
 
 <h3>Education</h3>
-Graduate Certificate, Applied Bioinformatics, <a href="https://www.wisc.edu">UW-Madison</a>, In Progress (Anticipated May 2024)<br> 
+Graduate Student, Applied Bioinformatics, <a href="https://www.wisc.edu">UW-Madison</a>, Sep 2022 - Nov 2022<br> 
 Master of Science, Computer Science, <a href="https://www.uww.edu/">UW-Whitewater</a>, May 2021<br>
 Minor, Computer Science, UW-Whitewater, May 2018<br>
 Bachelor of Science, Chemistry, UW-Whitewater, Dec 2014<br>
