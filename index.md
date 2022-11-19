@@ -31,8 +31,8 @@ Bachelor of Science, Chemistry, UW-Whitewater, Dec 2014<br>
 <a href="https://www.duolingo.com/profile/sschoellerSTEM">My Duolingo Profile</a><br>
 <br>
 <h2>Contact Information</h2>
-Telegram: sschoellerstem<br>
 <a href="https://matrix.org/">Matrix</a>: @sschoellerstem:matrix.org<br>
+Telegram: @sschoellerSTEM<br>
 Phone:&nbsp;<img src="Screenshot from 2022-09-04%2011-19-57.png"> (I tend to screen my calls)<br>
 <br>
 <br>
