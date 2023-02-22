@@ -11,7 +11,6 @@ My favorite accomplishments (thus far!) surround earning three <a href="https://
 
 <h3>Undergraudate &amp; Graduate Degrees</h3> 
 Master of Science, Computer Science, <a href="https://www.uww.edu/">UW-Whitewater</a>, May 2021<br>
-Minor, Computer Science, UW-Whitewater, May 2018<br>
 Bachelor of Science, Chemistry, UW-Whitewater, Dec 2014<br>
 
 <br>
