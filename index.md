@@ -21,7 +21,6 @@ Bachelor of Science, Chemistry, UW-Whitewater, Dec 2014<br>
 <a href="favlinks.html">Favorite Links</a><br>
 <br>
 <h2>Other Web Presence...</h2>
-<a href="https://www.linkedin.com/in/sschoellerSTEM">My LinkedIn Profile</a><br>
 <a href="https://sschoellerSTEM.blogspot.com">My Blog</a><br>
 <a href="https://www.goodreads.com/sschoellerstem">My Goodreads Profile</a><br>
 <a href="https://twitter.com/sschoellerSTEM">My Twitter Profile</a><br>
