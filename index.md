@@ -21,11 +21,12 @@ Bachelor of Science, Chemistry, UW-Whitewater, Dec 2014<br>
 <a href="favlinks.html">Favorite Links</a><br>
 <br>
 <h2>Other Web Presence...</h2>
+<a href="https://www.linkedin.com/in/yeshuaah1">LinkedIn</a><br>
 <a href="https://sschoellerSTEM.blogspot.com">My Blog</a><br>
-<a href="https://www.goodreads.com/sschoellerstem">My Goodreads Profile</a><br>
-<a href="https://twitter.com/sschoellerSTEM">My Twitter Profile</a><br>
+<a href="https://www.goodreads.com/yeshuaah1">My Goodreads Profile</a><br>
+<a href="https://twitter.com/yeshuaah1">My Twitter Profile</a><br>
 <a rel="me" href="https://noc.social/@sschoellerSTEM">My Mastodon Profile</a><br>
-<a href="https://www.duolingo.com/profile/sschoellerSTEM">My Duolingo Profile</a><br>
+<a href="https://www.duolingo.com/profile/yeshuaah1">My Duolingo Profile</a><br>
 <br>
 <form action="https://github.com/sschoellerSTEM">
 <button type="submit" style="background-color:#0000ff;color:whitesmoke">&lt;-GitHub</button>
