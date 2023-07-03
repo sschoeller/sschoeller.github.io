@@ -22,9 +22,9 @@ Bachelor of Science, Chemistry, UW-Whitewater, Dec 2014<br>
 <h2>Other Web Presence...</h2>
 <a href="https://www.linkedin.com/in/yeshuaah1">My LinkedIn Profile</a><br>
 <a href="https://twitter.com/yeshuaah1">My Twitter Profile</a><br>
-<a rel="me" href="[https://noc.social/@sschoellerSTEM](https://mastodon.social/@yeshuaah1)">My Mastodon Profile</a><br>
+<a rel="me" href="[https:/mastodon.social/@yeshuaah1](https://mastodon.social/@yeshuaah1)">My Mastodon Profile</a><br>
 <br>
-<form action="https://github.com/sschoellerSTEM">
+<form action="https://github.com/yeshuaah1">
 <button type="submit" style="background-color:#0000ff;color:whitesmoke">&lt;-GitHub</button>
 </form>
 </body>
