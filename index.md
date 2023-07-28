@@ -22,7 +22,7 @@ Bachelor of Science, Chemistry, UW-Whitewater, Dec 2014<br>
 <h2>Other Web Presence...</h2>
 <a href="https://www.linkedin.com/in/sschoeller">My LinkedIn Profile</a><br>
 <a href="https://twitter.com/sschoeller8080">My Twitter Profile</a><br>
-<a rel="me" href="https://mastdn.social/@sschoeller">My Mastodon Profile</a><br>
+<a rel="me" href="https://mstdn.social/@sschoeller">My Mastodon Profile</a><br>
 <br>
 <form action="https://github.com/sschoeller">
 <button type="submit" style="background-color:#0000ff;color:whitesmoke">&lt;-GitHub</button>
