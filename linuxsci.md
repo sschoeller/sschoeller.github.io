@@ -12,4 +12,4 @@ to simulate the night sky at various locaitons.<br>
 <h2>Commercial Software packages</h2>
 <a href="https://www.chemdoodle.com">ChemDoodle</a> is a chemistry drawing and 3D viewing suite. Inexpensive.<br> 
 <a href="https://www.wolfram.com/mathematica">Mathematica</a> is a traditional computer algebra system. 
-A home version is avaialable.<br>
+A home version is available.<br>
