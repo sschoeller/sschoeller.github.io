@@ -1,6 +1,6 @@
 Before sending me a message, please take into account the following:<br><br>
 1. Please put an appropriate subject and don't encrypt the subject line*.<br>
-2. Don't expect an imediate response, especially if I haven't corresponded with you before.<br>
+2. Don't expect an immediate response, especially if I haven't corresponded with you before.<br>
 3. Don't go into deeply controversial topics*.<br>
 4. Don't include photos of yourself (my family members excluded)*.<br>
 5. Don't spam me*.
