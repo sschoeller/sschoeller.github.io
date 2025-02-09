@@ -10,7 +10,7 @@
 <br>
 <a href="https://www.science.org/journal/sciadv">Science Advances</a>
 <br>
-<a href="https://cacm.acm.org">Communicatations of the ACM</a>
+<a href="https://cacm.acm.org">Communications of the ACM</a>
 <br>
 <a href="https://dl.acm.org">ACM Digital Library</a> (Some back articles have now been made generally available!)
 <br>
