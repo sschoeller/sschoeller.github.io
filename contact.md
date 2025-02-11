@@ -8,7 +8,8 @@ Before sending me a message, please take into account the following:<br><br>
 <br>
 *Violations of these expectations will automatically result in me ignoring your email message, and perhaps you will be blocked.<br>
 <br>
-sschoeller8080 AT gmail<br>
+<br>
+<a href="https://github.com/sschoeller/PGPResources">Need help with PGP?</a><br>
 <br>
 <br>
 -----BEGIN PGP PUBLIC KEY BLOCK-----<br>
