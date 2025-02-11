@@ -8,6 +8,7 @@
 <br>
 <a href="https://catless.ncl.ac.uk/Risks/">RISKS Digest</a>
 <br>
+<h3>Publication Resources</h3>
 <a href="https://www.science.org/journal/sciadv">Science Advances</a>
 <br>
 <a href="https://cacm.acm.org">Communications of the ACM</a>
