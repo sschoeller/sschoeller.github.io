@@ -13,7 +13,7 @@ Before sending me a message, please take into account the following:<br><br>
 <br>
 <br>
 -----BEGIN PGP PUBLIC KEY BLOCK-----<br>
-Comment: User-ID:	Scott Schoeller <sschoeller8080@gmail.com><br>
+Comment: User-ID:	Scott Schoeller <br>
 Comment: Valid from:	9/24/23 3:55 AM<br>
 Comment: Type:	512-bit ECDSA (secret key available)<br>
 Comment: Usage:	Signing, Encryption, Certifying User-IDs<br>
