@@ -10,6 +10,4 @@ Before sending me a message, please take into account the following:<br><br>
 <br>
 <br>
 <a href="https://github.com/sschoeller/PGPResources">Need help with PGP?</a><br>
-<br>
-<embed type="text/html" src="https://github.com/sschoeller/PGPResources/blob/main/sschoeller8080.asc" width="500" height="500" />
-<br>
+<a href="https://github.com/sschoeller/PGPResources/blob/main/sschoeller8080.asc">My PGP Key (Brainpool)</a>
