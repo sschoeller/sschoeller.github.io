@@ -8,6 +8,8 @@ Before sending me a message, please take into account the following:<br><br>
 <br>
 *Violations of these expectations will automatically result in me ignoring your email message, and perhaps you will be blocked.<br>
 <br>
+Username: sschoeller8080<br>
+Service: gmail<br>
 <br>
 <a href="https://github.com/sschoeller/PGPResources">Need help with PGP?</a><br>
 <a href="https://github.com/sschoeller/PGPResources/blob/main/sschoeller8080.asc">My PGP Key (Brainpool)</a>
