@@ -7,7 +7,9 @@ My favorite accomplishments (thus far!) surround earning three <a href="https://
 <div style="float:center">
 <img src="Check3.jpg" width="30%">&nbsp;<img src="Check2.jpg" width="30%">&nbsp;<img src="Check1.jpg" width="30%">
  </div>
-<p>Additional achievements include membership in <a href="https://www.phikappaphi.org/">The Honor Society of Phi Kappa Phi</a> and various scholarships.</p><br>
+ <br>
+I am starting a <a href="statelineosdg.html">regional open source group</a>.
+ <p>Additional achievements include membership in <a href="https://www.phikappaphi.org/">The Honor Society of Phi Kappa Phi</a> and various scholarships.</p><br>
 
 <h3>Undergraduate &amp; Graduate Degrees</h3> 
 Master of Science, Computer Science, <a href="https://www.uww.edu/">UW-Whitewater</a>, May 2021<br>
