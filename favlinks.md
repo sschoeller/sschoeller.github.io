@@ -15,6 +15,8 @@
 <br>
 <a href="https://dl.acm.org">ACM Digital Library</a> (Some back articles have now been made generally available!)
 <br>
+<a href="https://www.sciencedirect.com/journal/ai-open">AI Open</a>
+<br>
 <h3>Scientists</h3>
 <a href="https://erikdemaine.org/">Erik Demaine's Website</a>
 <br>
