@@ -5,10 +5,10 @@ The first thing to keep in mind for science at home (or homeschool), is that a c
 <br>
 Regarding Linux, there are Ubuntu Linux laptops available from Lenovo, as of the time of this writing (11/11/2025).<br> 
 Ubuntu is a popular choice among government and academic scientists, in part due to its support period (10 years standard with <a href="https://ubuntu.com/pro">Pro</a>) for LTS releases and security features. Windows still is the predominant OS for many corporate research environments. 
-You also can&apos;t go wrong with Apple products. One of the labs I worked at ran iMacs. Most scientific software programs are cross-platform, nowadays. However, it seems Linux tends to require the least resources, leaving more memory for your scientific programs to use (most supercomputers run Linux.).<br> 
+You also can&apos;t go wrong with Apple products. One of the labs I worked at ran iMacs. Most scientific software programs are cross-platform, nowadays. However, it seems Linux tends to require the least resources, leaving more memory for your scientific programs to use (Most supercomputers run Linux.).<br> 
 <h3>Calculus/Stats for Science</h3>
 <a href="https://maxima.sourceforge.io/">Maxima</a> with <a href="https://wxmaxima-developers.github.io/wxmaxima/">wxMaxima</a> GUI (Ubuntu package: wxmaxima)<br>
-<a href="https://www.tug.org/texlive/">TeX Live</a> (for math typesetting; Ubuntu packages: texlive-latex-recommended, texlive-latex-extra)<br>
+<a href="https://www.tug.org/texlive/">TeX Live</a> (for math typesetting; Ubuntu packages: texlive-latex-recommended texlive-latex-extra)<br>
 <a href="https://www.xm1math.net/texmaker/">Texmaker GUI for TeX Live</a> (Ubuntu package: texmaker)<br>  
 Dover Books on Mathematics (series)<br>
 <br>
@@ -19,10 +19,15 @@ Dover Books on Mathematics (series)<br>
 <a href="https://www.genome.gov/">National Human Genome Research Institute</a> (formerly the Human Genome Project)<br>
 <br>
 <h3>Chemistry</h3>
-<i>Theo Gray's Mad Science</i><br>
-<a href="https://www.openchemistry.org/projects/avogadro2/">Avogadro2</a> Molecular viewer (Ubuntu packages: avogadro, openbabel, apbs)<br>
+<i>Theo Gray's Mad Science</i> and <i>The Elements</i> by Theodore Gray<br>
+<a href="https://www.openchemistry.org/projects/avogadro2/">Avogadro2</a> Molecular viewer (Ubuntu packages: avogadro openbabel apbs)<br>
 <br>
 <h3>Environmental Sciences</h3>
-<a href="https://qgis.org/">QGIS</a> (GIS/Cartography software; Ubuntu packages: qgis, grass)<br>  
-<a href="https://www.usgs.gov/">US Geological Survey</a>  
+<a href="https://qgis.org/">QGIS</a> (GIS/Cartography software; Ubuntu packages: qgis grass)<br>
+<a href="https://www.usgs.gov/">US Geological Survey</a>
+<br>
+<h3>Physics</h3>
+<i>The Physics of Everyday Phenomena</i> by W. Thomas Griffith  
 </body>
+ 
+
