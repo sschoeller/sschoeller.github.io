@@ -3,7 +3,7 @@ Before sending me a message, please take into account the following:<br><br>
 2. If an email is about the <a href="https://serenityhorserescue.org/">Serenity Horse Rescue</a> website or other tech-related concerns for that organization, please put <i>Serenity</i> in the subject line.
 3. Don't expect an immediate response via email. I will respond within ~24 hours.<br>
 4. If you need a response sooner, feel free to contact me via XMPP (aka Jabber).<br>
-5. No unsoliticed attachements.<br>  
+5. No unsoliticed attachments.<br>  
 <br>
 Email: <b>sschoeller8080</b> AT gmail<br>
 XMPP: <b>sschoeller</b> AT member.fsf.org<br>
