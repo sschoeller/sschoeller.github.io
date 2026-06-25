@@ -1,5 +1,5 @@
 <body>
-<h1>Self-learning science</h1>
+<h1>Self-learning Science</h1>
 How to self-learn science? That is the goal of this page, currently under construction.<br>
 The first thing to keep in mind for science at home (or homeschool), is that a computational research environment is one of those essential elements. To do so, you should invest in a quality computer. For Windows, I recommend getting 32 Gigs (GiB) of RAM (memory). For the other two major OS's, you can do with 16 GiB of RAM. The processor also matters, though RAM tends to be the bottleneck. 
 <br>
