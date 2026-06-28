@@ -10,7 +10,7 @@
   # apt install dotnet10<br>
   3. Install wine64<br>
   # apt install wine64<br>
-  4. Install Powershell<br> 
+  4. Install PowerShell<br> 
   <a href="https://learn.microsoft.com/en-us/powershell/scripting/install/linux-overview?view=powershell-7.6#ubuntu">Instructions here</a><br>
   5. Install ADsys and related components (Ask your work IT for assistance, this could get tricky!!)<br>
   # apt install adsys krb5-user libsss-sudo
