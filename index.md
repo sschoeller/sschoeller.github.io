@@ -7,27 +7,27 @@ My favorite accomplishments (thus far!) surround earning three <a href="https://
 <div style="float:center">
 <img src="Check3.jpg" width="30%">&nbsp;<img src="Check2.jpg" width="30%">&nbsp;<img src="Check1.jpg" width="30%">
  </div>
- <br>
+<br>
 I am starting a <a href="statelineosdg.html">regional open source group</a>.
  <p>Additional achievements include membership in <a href="https://www.phikappaphi.org/">The Honor Society of Phi Kappa Phi</a> and various scholarships.</p><br>
-
+<br>
 <h3>Undergraduate &amp; Graduate Degrees</h3> 
 Master of Science, Computer Science, <a href="https://www.uww.edu/">UW-Whitewater</a>, May 2021<br>
 Bachelor of Science, Chemistry, UW-Whitewater, Dec 2014<br>
-
+<br>
 <h3>Short Guides</h3>
 <a href="ms-ify.html">MS-ifying Ubuntu</a><br>
 <a href="selflearnsci.html">Self-learning Science</a><br>
-
-<h2>Other Web Presence...</h2>
-<a href="https://twitter.com/sschoeller8080">My Twitter Profile</a><br>
-<a rel="me" href="https://mstdn.social/@sschoeller">My Mastodon Profile</a><br>
-<a href="contact.html">Contact me using PGP</a><br>
-
+<br>
 <h3>For More Information...</h3> 
 <a href="knuthkorner.html">My Library</a><br>
  <a href="hobbies.html">Hobbies</a><br>
 <a href="favlinks.html">Favorite Links</a><br>
+<br>
+<h2>Other Web Presence...</h2>
+<a href="https://twitter.com/sschoeller8080">My Twitter Profile</a><br>
+<a rel="me" href="https://mstdn.social/@sschoeller">My Mastodon Profile</a><br>
+<a href="contact.html">Contact me using PGP</a><br>
 <br>
 <br>
 <form action="https://github.com/sschoeller">
