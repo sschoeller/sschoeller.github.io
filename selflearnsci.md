@@ -24,7 +24,7 @@ Dover Books on Mathematics (series)<br>
 <br>
 <h3>Environmental Sciences</h3>
 <a href="https://qgis.org/">QGIS</a> GIS/Cartography software (Ubuntu packages: qgis grass)<br>
-<a href="https://www.epa.gov/education">US Enviromental Protection Agency Education Page</a><br>
+<a href="https://www.epa.gov/education">US Environmental Protection Agency Education Page</a><br>
 <a href="https://www.usgs.gov/educational-resources">US Geological Survey Education Page</a><br>
 <a href="https://www.nps.gov">US National Parks Service</a><br> 
 <br>
