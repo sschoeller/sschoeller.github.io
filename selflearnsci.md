@@ -13,7 +13,7 @@ You also can&apos;t go wrong with Apple products. One of the labs I worked at ra
 Dover Books on Mathematics (series)<br>
 <br>
 <h3>Astronomy</h3>
-<a href="https://stellarium-web.org/">Stellarium Web</a> (also available as a <a href="https://stellarium.org/">stand-alone program</a>)<br>
+<a href="https://stellarium-web.org/">Stellarium Web</a> (also available as a <a href="https://stellarium.org/">stand-alone program</a>, Ubuntu package: stellarium)<br>
 <br>
 <h3>Biology</h3>
 <a href="https://www.genome.gov/">National Human Genome Research Institute</a> (formerly the Human Genome Project)<br>
@@ -23,8 +23,10 @@ Dover Books on Mathematics (series)<br>
 <a href="https://www.openchemistry.org/projects/avogadro2/">Avogadro2</a> Molecular viewer (Ubuntu packages: avogadro openbabel apbs)<br>
 <br>
 <h3>Environmental Sciences</h3>
-<a href="https://qgis.org/">QGIS</a> (GIS/Cartography software; Ubuntu packages: qgis grass)<br>
-<a href="https://www.usgs.gov/">US Geological Survey</a>
+<a href="https://qgis.org/">QGIS</a> GIS/Cartography software (Ubuntu packages: qgis grass)<br>
+<a href="https://www.epa.gov/education">US Eniviromental Protection Agency Education Page</a><br>
+<a href="https://www.usgs.gov/educational-resources">US Geological Survey Education Page</a><br>
+<a href="https://www.nps.gov">US National Parks Service</a><br> 
 <br>
 <h3>Physics</h3>
 <i>The Physics of Everyday Phenomena</i> by W. Thomas Griffith  
