@@ -21,13 +21,11 @@ Bachelor of Science, Chemistry, UW-Whitewater, Dec 2014<br>
 <br>
 <h3>For More Information...</h3> 
 <a href="knuthkorner.html">My Library</a><br>
- <a href="hobbies.html">Hobbies</a><br>
+<a href="hobbies.html">Hobbies</a><br>
 <a href="favlinks.html">Favorite Links</a><br>
 <br>
-<h2>Other Web Presence...</h2>
-<a href="https://twitter.com/sschoeller8080">My Twitter Profile</a><br>
-<a rel="me" href="https://mstdn.social/@sschoeller">My Mastodon Profile</a><br>
-<a href="contact.html">Contact me using PGP</a><br>
+<h2>Contact me!</h2>
+<a href="contact.html">Contact me using PGP or XMPP</a><br>
 <br>
 <br>
 <form action="https://github.com/sschoeller">
