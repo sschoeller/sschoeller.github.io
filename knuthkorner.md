@@ -9,8 +9,11 @@ However, I add books by additional computer scientists and software engineers to
 <b>The Art of Computer Programming</b><br>
 <i>The Art of Computer Programming Volumes 1 &amp; 3</i> are suitable for an advanced undergrad (or degree holder) or potentially a first year graduate student. What I mean by advanced undergrad is someone who successfully completed data structures and theory of algorithms. Don Knuth explains material well -- that's what I like most about him as a writer -- but he writes with such great depth that one realistically needs to have completed most of their undergraduate education to read into those details and some material is truly graduate-level.<br>
 <i>The Art of Computer Programming Volume 2</i> is most suitable for graduate students and graduate degree holders. It is especially useful for someone in cryptography. There is a <i>lot</i> of math here.<br>
+<i>The Art of Computer Programming Volume 1 Fascicle 1</i> and <i>The MMIX Supplement</i> (Ruckert) are highly recommended to have available, 
+as V1F1 replaces the introductory section on MIX with MMIX and the remainder of the programs are rewritten by Ruckert's team.<br>    
 <b>Other Classics</b><br>
 <i>Introduction to Algorithms</i> (CLRS) is a book meant for advanced undergraduate or graduate coursework. It is the standard for both levels at many institutions. It's generally easier than <i>TAOCP</i>.<br>
-<i>The Annotated Turing</i> (Pelzold) is most suitable for someone in their theory of computation course.<br>
+<i>The Annotated Turing</i> (Petzold) is most suitable for someone in their theory of computation course.<br>
 <i>The Mythical Man-Month</i> (Brooks) is a classic in the field that is very accessible. If you took at least a year of programming and want to know more practical material, this is a book that will enthrall you.<br>
-<i>Selected Writings on Computing: A Personal Perspective</i> (Dijkstra) is a hard copy of some of his publications. The trip reports are accessible for undergrads. Many papers, however, require a graduate education to understand.
+<i>Selected Writings on Computing: A Personal Perspective</i> (Dijkstra) is a hard copy of some of his publications. The trip reports are accessible for undergrads. Many papers, however, require a graduate education to understand.<br>
+<i>Computers and Intractability: A Guide to the Theory of NP-Completeness</i> (Garey &amp; Johnson) is best for undergraduates, graduate students and professionals who have taken a theory of computation course.
