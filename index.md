@@ -15,7 +15,7 @@ I am starting a <a href="statelineosdg.html">regional open source group</a>.
 Master of Science, Computer Science, <a href="https://www.uww.edu/">UW-Whitewater</a>, May 2021<br>
 Bachelor of Science, Chemistry, UW-Whitewater, Dec 2014
 <h4>Electives Taken</h4>
-<b>Graduate</b>: Cloud Computing, Software Specification and Verification, Special Studies -- Algorithms in Practice (now called Algorithms in the Real World), Individual Studies -- Quantum Computing<br>
+<b>Graduate</b>: Cloud Computing, Software Specification and Verification, Special Studies -- Algorithms in Practice (now called Algorithms in the Real World), <a href="https://github.com/sschoeller/798Quantum">Individual Studies -- Quantum Computing</a><br>
 <b>Undergraduate</b>: Applied Statistics, Applied Regression Analysis, Bioinformatics, Web Server and UNIX Administration<br>
 <br>
 <h3>Short Guides</h3>
