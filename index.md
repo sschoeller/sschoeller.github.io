@@ -13,7 +13,10 @@ I am starting a <a href="statelineosdg.html">regional open source group</a>.
 <br>
 <h3>Undergraduate &amp; Graduate Degrees</h3> 
 Master of Science, Computer Science, <a href="https://www.uww.edu/">UW-Whitewater</a>, May 2021<br>
-Bachelor of Science, Chemistry, UW-Whitewater, Dec 2014<br>
+Bachelor of Science, Chemistry, UW-Whitewater, Dec 2014
+<h4>Electives Taken</h4>
+<b>Graduate</b>: Cloud Computing, Software Specification and Verification, Special Studies -- Algorithms in Practice (now called Algorithms in the Real World), Individual Studies -- Quantum Computing<br>
+<b>Undergraduate</b>: Applied Statistics, Applied Regression Analysis, Bioinformatics, Web Server and UNIX Administration<br>
 <br>
 <h3>Short Guides</h3>
 <a href="ms-ify.html">MS-ifying Ubuntu</a><br>
