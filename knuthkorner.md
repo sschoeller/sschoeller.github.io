@@ -10,7 +10,8 @@ However, I add books by additional computer scientists and software engineers to
 <i>The Art of Computer Programming Volumes 1 &amp; 3</i> are suitable for an advanced undergrad (or degree holder) or potentially a first year graduate student. What I mean by advanced undergrad is someone who successfully completed data structures and theory of algorithms. Don Knuth explains material well -- that's what I like most about him as a writer -- but he writes with such great depth that one realistically needs to have completed most of their undergraduate education to read into those details and some material is truly graduate-level.<br>
 <i>The Art of Computer Programming Volume 2</i> is most suitable for graduate students and graduate degree holders. It is especially useful for someone in cryptography. There is a <i>lot</i> of math here.<br>
 <i>The Art of Computer Programming Volume 1 Fascicle 1</i> and <i>The MMIX Supplement</i> (Ruckert) are highly recommended to have available, 
-as V1F1 replaces the introductory section on MIX with MMIX and the remainder of the programs are rewritten by Ruckert's team.<br>    
+as V1F1 replaces the introductory section on MIX with MMIX and the remainder of the programs are rewritten by Ruckert's team. 
+Volumes 4A, 4B as well as the (hopefully) upcoming 4C &amp; 5 use MMIX.<br>    
 <b>Other Classics</b><br>
 <i>Introduction to Algorithms</i> (CLRS) is a book meant for advanced undergraduate or graduate coursework. It is the standard for both levels at many institutions. It's generally easier than <i>TAOCP</i>.<br>
 <i>The Annotated Turing</i> (Petzold) is most suitable for someone in their theory of computation course.<br>
