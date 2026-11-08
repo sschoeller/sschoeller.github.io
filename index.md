@@ -17,7 +17,10 @@ Bachelor of Science, Chemistry, UW-Whitewater, Dec 2014
 <h4>Electives Taken</h4>
 <b>Graduate</b>: Cloud Computing, Software Specification and Verification, Special Studies -- Algorithms in Practice (now called Algorithms in the Real World), <a href="https://github.com/sschoeller/798Quantum">Individual Studies -- Quantum Computing</a><br>
 <b>Undergraduate</b>: Applied Statistics, Applied Regression Analysis, Bioinformatics, Web Server and UNIX Administration<br>
-<br>
+<h3>Continuing Education</h3>
+<b>CompTIA</b>: AI Essentials<br>
+<b><a href="https://www.blackhawk.edu">Blackhawk Technical College</a></b>: Intro to Excel: Excel Sampler, Intro to Excel: Formulas and Functions, 
+Excel: Intermediate Formulas and Functions, Advanced Excel<br>
 <h3>Short Guides</h3>
 <a href="ms-ify.html">MS-ifying Ubuntu</a><br>
 <a href="selflearnsci.html">Self-learning Science</a><br>
