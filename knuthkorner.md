@@ -18,4 +18,3 @@ Volumes 4A, 4B as well as the (hopefully) upcoming 4C &amp; 5 use MMIX.<br>
 <i>The Annotated Turing</i> (Petzold) is most suitable for someone in their theory of computation course.<br>
 <i>Selected Writings on Computing: A Personal Perspective</i> (Dijkstra) is a hard copy of some of his publications. The trip reports are accessible for undergrads. Many papers, however, require a graduate education to understand.<br>
 <i>Computers and Intractability: A Guide to the Theory of NP-Completeness</i> (Garey &amp; Johnson) is best for undergraduates, graduate students and professionals who have taken a theory of computation course.
-<
