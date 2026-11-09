@@ -13,8 +13,8 @@ However, I add books by additional computer scientists and software engineers to
 as V1F1 replaces the introductory section on MIX with MMIX and the remainder of the programs are rewritten by Ruckert's team. 
 Volumes 4A, 4B as well as the (hopefully) upcoming 4C &amp; 5 use MMIX.<br>    
 <b>Other Classics</b><br>
+<i>The Mythical Man-Month</i> (Brooks) and <i>Programming Pearls</i> (Bentley) are classics that are very accessible. If you took through data structures and want to know highly practical material, these books will enthrall you!<br>
 <i>Introduction to Algorithms</i> (CLRS) is a book meant for advanced undergraduate or graduate coursework. It is the standard for both levels at many institutions. It's generally easier than <i>TAOCP</i>.<br>
 <i>The Annotated Turing</i> (Petzold) is most suitable for someone in their theory of computation course.<br>
-<i>The Mythical Man-Month</i> (Brooks) is a classic in the field that is very accessible. If you took at least a year of programming and want to know more practical material, this is a book that will enthrall you.<br>
-<i>Selected Writings on Computing: A Personal Perspective</i> (Dijkstra) is a hard copy of some of his publications. The trip reports are accessible for undergrads. Many papers, however, require a graduate education to understand.<br>
+<i>Selected Writings on Computing: A Personal Perspective</i> (Dijkstra) is a hard copy of some of his publications. The trip reports are accessible for undergrads. Many papers, however, require a graduate education to understand.
 <i>Computers and Intractability: A Guide to the Theory of NP-Completeness</i> (Garey &amp; Johnson) is best for undergraduates, graduate students and professionals who have taken a theory of computation course.
