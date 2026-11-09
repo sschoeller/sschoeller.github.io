@@ -9,28 +9,29 @@ My favorite accomplishments (thus far!) surround earning three <a href="https://
  </div>
 <br>
 I am starting a <a href="statelineosdg.html">regional open source group</a>.
- <p>Additional achievements include membership in <a href="https://www.phikappaphi.org/">The Honor Society of Phi Kappa Phi</a> and various scholarships.</p><br>
-<br>
-<h3>Undergraduate &amp; Graduate Degrees</h3> 
+ <p>Additional achievements include membership in <a href="https://www.phikappaphi.org/">The Honor Society of Phi Kappa Phi</a> and various scholarships.</p>
+ 
+<h1>Education</h1> 
 Master of Science, Computer Science, <a href="https://www.uww.edu/">UW-Whitewater</a>, May 2021<br>
-Bachelor of Science, Chemistry, UW-Whitewater, Dec 2014
-<h4>Electives Taken</h4>
+Bachelor of Science, Chemistry, UW-Whitewater, Dec 2014<br>
+<h3>Electives Taken</h3>
 <b>Graduate</b>: Cloud Computing, Software Specification and Verification, Special Studies -- Algorithms in Practice (now called Algorithms in the Real World), <a href="https://github.com/sschoeller/798Quantum">Individual Studies -- Quantum Computing</a><br>
 <b>Undergraduate</b>: Applied Statistics, Applied Regression Analysis, Bioinformatics, Web Server and UNIX Administration<br>
 <h3>Continuing Education</h3>
 <b>CompTIA</b>: AI Essentials<br>
 <b><a href="https://www.blackhawk.edu">Blackhawk Technical College</a></b>: Intro to Excel: Excel Sampler, Intro to Excel: Formulas and Functions, 
-Excel: Intermediate Formulas and Functions, Advanced Excel<br>
-<h3>Short Guides</h3>
+Excel: Intermediate Formulas and Functions, Advanced Excel
+
+<h1>Short Guides</h1>
 <a href="ms-ify.html">MS-ifying Ubuntu</a><br>
 <a href="selflearnsci.html">Self-learning Science</a><br>
-<br>
-<h3>For More Information...</h3> 
+
+<h1>For More Information...</h1> 
 <a href="knuthkorner.html">My Library</a><br>
 <a href="hobbies.html">Hobbies</a><br>
 <a href="favlinks.html">Favorite Links</a><br>
-<br>
-<h2>Contact me!</h2>
+
+<h1>Contact me!</h1>
 <a href="contact.html">Contact me using PGP or XMPP</a><br>
 <br>
 <br>
