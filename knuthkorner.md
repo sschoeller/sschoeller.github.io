@@ -16,5 +16,6 @@ Volumes 4A, 4B as well as the (hopefully) upcoming 4C &amp; 5 use MMIX.<br>
 <i>The Mythical Man-Month</i> (Brooks) and <i>Programming Pearls</i> (Bentley) are classics that are very accessible. If you took through data structures and want to know highly practical material, these books will enthrall you!<br>
 <i>Introduction to Algorithms</i> (CLRS) is a book meant for advanced undergraduate or graduate coursework. It is the standard for both levels at many institutions. It's generally easier than <i>TAOCP</i>.<br>
 <i>The Annotated Turing</i> (Petzold) is most suitable for someone in their theory of computation course.<br>
-<i>Selected Writings on Computing: A Personal Perspective</i> (Dijkstra) is a hard copy of some of his publications. The trip reports are accessible for undergrads. Many papers, however, require a graduate education to understand.
+<i>Selected Writings on Computing: A Personal Perspective</i> (Dijkstra) is a hard copy of some of his publications. The trip reports are accessible for undergrads. Many papers, however, require a graduate education to understand.<br>
 <i>Computers and Intractability: A Guide to the Theory of NP-Completeness</i> (Garey &amp; Johnson) is best for undergraduates, graduate students and professionals who have taken a theory of computation course.
+<
