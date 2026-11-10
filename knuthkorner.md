@@ -7,11 +7,13 @@ and <i>Selected Papers on Design of Algorithms</i>.
 However, I add books by additional computer scientists and software engineers to maintain a decent collection of viewpoints.</p>
 <h3>Difficulty Level of Select Books</h3>
 <b>The Art of Computer Programming</b><br>
-<i><a href="https://cs.stanford.edu/~knuth/taocp.html">The Art of Computer Programming</a> Volumes 1 &amp; 3</i> are suitable for an advanced undergrad (or degree holder) or potentially a  graduate student in their second semester of their first year. What I mean by advanced undergrad is someone who successfully completed data structures and theory of algorithms. Don Knuth explains material well without major oversimplifications -- that's what I like most about him as a writer -- but the flip side is that he writes with such great depth that one realistically needs to have completed most of their undergraduate education to read into those details and some material is truly graduate-level.<br>
+<i><a href="https://cs.stanford.edu/~knuth/taocp.html">The Art of Computer Programming</a> Volumes 1 &amp; 3</i> are suitable for an advanced undergrad (or degree holder) or potentially a  graduate student in their second semester of their first year. What I mean by advanced undergrad is someone who successfully completed data structures and theory of algorithms. Don Knuth explains material well without major oversimplifications -- that's what I like most about him as a writer* -- but the flip side is that he writes with such great depth that one realistically needs to have completed most of their undergraduate education to read into those details and some material is truly graduate-level.<br>
 <i>The Art of Computer Programming Volume 2</i> is most suitable for graduate students and graduate degree holders. It is especially useful for someone in cryptography. There is a <i>lot</i> of math here.<br>
 <i>The Art of Computer Programming Volume 1 Fascicle 1</i> and <i>The MMIX Supplement</i> (Ruckert) are highly recommended to have available, 
 as V1F1 replaces the introductory section on MIX with MMIX and the remainder of the programs are rewritten by Ruckert's team. 
-Volumes 4A, 4B as well as the (hopefully) upcoming 4C &amp; 5 use MMIX.<br>    
+Volumes 4A, 4B as well as the (hopefully) upcoming 4C &amp; 5 use MMIX.<br>
+<br>
+*The other thing I really like about <i>TAOCP</i> is that a large number of answers to exercises are in the back, so one can check their work. This is very unusual for an algorithms book, unfortunately. I wish more authors would put selected answers in the back of the book!<br>
 <b>Other Classics</b><br>
 <i>The Mythical Man-Month</i> (Brooks) and <i>Programming Pearls</i> (Bentley) are classics that are very accessible. If you took through data structures and want to know highly practical material, these books will enthrall you!<br>
 <i>Introduction to Algorithms</i> (CLRS) is a book meant for advanced undergraduate or graduate coursework. It is the standard for both levels at many institutions. It's generally easier than <i>TAOCP</i>.<br>
