@@ -13,7 +13,9 @@ I am starting a <a href="statelineosdg.html">regional open source group</a>.
  
 <h2>Education</h2> 
 Master of Science, Computer Science, <a href="https://www.uww.edu/">UW-Whitewater</a>, May 2021<br>
-Bachelor of Science, Chemistry, UW-Whitewater, Dec 2014<br>
+Add-on Minor*, Computer Science, May 2018<br>
+Bachelor of Science, Chemistry--Professional ACS Approved (Environmental Studies minor), UW-Whitewater, Dec 2014<br>
+*<a href="https://uww-public.courseleaf.com/general-information/registrars-office/undergraduate-policies/#addingamajorminortoadegreetext">UW-Whitewater allows adding on a minor to an existing degree earned there</a><br>
 <h3>Electives Taken</h3>
 <b>Graduate</b>: Cloud Computing, Software Specification and Verification, Special Studies -- Algorithms in Practice (now called Algorithms in the Real World), <a href="https://github.com/sschoeller/798Quantum">Individual Studies -- Quantum Computing</a><br>
 <b>Undergraduate</b>: Applied Statistics, Applied Regression Analysis, Bioinformatics, Web Server and UNIX Administration<br>
