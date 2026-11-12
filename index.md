@@ -17,7 +17,7 @@ Add-on Minor*, Computer Science, UW-Whitewater, May 2018<br>
 Bachelor of Science, Chemistry--Professional ACS Approved (Environmental Studies minor), UW-Whitewater, Dec 2014<br>
 *<a href="https://uww-public.courseleaf.com/general-information/registrars-office/undergraduate-policies/#addingamajorminortoadegreetext">UW-Whitewater allows adding on a minor to an existing degree earned there</a><br>
 <h3>Electives Taken</h3>
-<b>Graduate</b>: Cloud Computing, Software Specification and Verification, Special Studies -- Algorithms in Practice (now called Algorithms in the Real World), <a href="https://github.com/sschoeller/798Quantum">Individual Studies -- Quantum Computing</a><br>
+<b>Graduate</b>: Cloud Computing, Software Specification &amp; Verification, Big Data &amp; Data Mining, Special Studies -- Algorithms &amp; Data Structures [in Practice] (now called Algorithms in the Real World), <a href="https://github.com/sschoeller/798Quantum">Individual Studies -- Quantum Computing</a><br>
 <b>Undergraduate</b>: Applied Statistics, Applied Regression Analysis, Bioinformatics, Web Server and UNIX Administration<br>
 <h3>Continuing Education</h3>
 <b>CompTIA</b>: AI Essentials<br>
