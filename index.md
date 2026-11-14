@@ -15,15 +15,18 @@ I am starting a <a href="statelineosdg.html">regional open source group</a>.
 Master of Science, Computer Science, <a href="https://www.uww.edu/">UW-Whitewater</a>, May 2021<br>
 Add-on Minor*, Computer Science, UW-Whitewater, May 2018<br>
 Bachelor of Science, Chemistry -- <a href="https://www.acs.org/education/undergraduate.html">Professional ACS Approved</a> (Environmental Studies minor), UW-Whitewater, Dec 2014<br>
+<br>
 *<a href="https://uww-public.courseleaf.com/general-information/registrars-office/undergraduate-policies/#addingamajorminortoadegreetext">UW-Whitewater allows adding on a minor to an existing degree earned there</a><br>
+<br>
 <h3>Electives Taken</h3>
 <b>Graduate</b>: Cloud Computing, Software Specification &amp; Verification, Big Data &amp; Data Mining, Special Studies -- Algorithms &amp; Data Structures in Practice (now called Algorithms in the Real World), <a href="https://github.com/sschoeller/798Quantum">Individual Studies -- Quantum Computing</a><br>
 <b>Undergraduate</b>: Applied Regression Analysis, Bioinformatics, Web Server &amp; UNIX Administration, Supervised Teaching Aide -- Quantitative Analysis lab<br>
+<br>
 <h3>Continuing Education</h3>
 <b>CompTIA</b>: AI Essentials<br>
 <b><a href="https://www.blackhawk.edu">Blackhawk Technical College</a></b>: Intro to Excel: Excel Sampler, Intro to Excel: Formulas and Functions, 
 Excel: Intermediate Formulas and Functions, Advanced Excel
-
+<br>
 <h2>Short Guides</h2>
 <a href="ms-ify.html">MS-ifying Ubuntu</a><br>
 <a href="selflearnsci.html">Self-learning Science</a><br>
