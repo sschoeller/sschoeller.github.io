@@ -18,7 +18,7 @@ Bachelor of Science, Chemistry--Professional ACS Approved (Environmental Studies
 *<a href="https://uww-public.courseleaf.com/general-information/registrars-office/undergraduate-policies/#addingamajorminortoadegreetext">UW-Whitewater allows adding on a minor to an existing degree earned there</a><br>
 <h3>Electives Taken</h3>
 <b>Graduate</b>: Cloud Computing, Software Specification &amp; Verification, Big Data &amp; Data Mining, Special Studies -- Algorithms &amp; Data Structures in Practice (now called Algorithms in the Real World), <a href="https://github.com/sschoeller/798Quantum">Individual Studies -- Quantum Computing</a><br>
-<b>Undergraduate</b>: Applied Statistics, Applied Regression Analysis, Bioinformatics, Web Server and UNIX Administration, Supervised Teaching Aide -- Quantitative Analysis lab<br>
+<b>Undergraduate</b>: Applied Regression Analysis, Bioinformatics, Web Server and UNIX Administration, Supervised Teaching Aide -- Quantitative Analysis lab<br>
 <h3>Continuing Education</h3>
 <b>CompTIA</b>: AI Essentials<br>
 <b><a href="https://www.blackhawk.edu">Blackhawk Technical College</a></b>: Intro to Excel: Excel Sampler, Intro to Excel: Formulas and Functions, 
