@@ -23,6 +23,7 @@ Bachelor of Science, Chemistry -- <a href="https://www.acs.org/education/undergr
 <b>Undergraduate</b>: Applied Regression Analysis, Bioinformatics, Web Server &amp; UNIX Administration, Supervised Teaching Aide -- Quantitative Analysis lab<br>
 <br>
 <h3>Continuing Education</h3>
+<b>Coursera</b>: Technical Support Fundamentals (Google)<br>
 <b>CompTIA</b>: AI Essentials<br>
 <b><a href="https://www.blackhawk.edu">Blackhawk Technical College</a></b>: Intro to Excel: Excel Sampler, Intro to Excel: Formulas and Functions, 
 Excel: Intermediate Formulas and Functions, Advanced Excel
