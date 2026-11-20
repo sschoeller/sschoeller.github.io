@@ -18,9 +18,9 @@ Bachelor of Science, Chemistry -- <a href="https://www.acs.org/education/undergr
 <br>
 *<a href="https://uww-public.courseleaf.com/general-information/registrars-office/undergraduate-policies/#addingamajorminortoadegreetext">UW-Whitewater allows adding on a minor to an existing degree earned there</a><br>
 <br>
-<h3>Electives Taken</h3>
-<b>Graduate</b>: Cloud Computing, Software Specification &amp; Verification, Big Data &amp; Data Mining, Special Studies -- Algorithms &amp; Data Structures in Practice (now called Algorithms in the Real World), <a href="https://github.com/sschoeller/798Quantum">Individual Studies -- Quantum Computing</a><br>
-<b>Undergraduate</b>: Applied Regression Analysis, Bioinformatics, Web Server &amp; UNIX Administration, Supervised Teaching Aide -- Quantitative Analysis lab<br>
+<h3>Selected Courses</h3>
+<b>Graduate</b>: Advanced Algorithm Design &amp; Analysis, Advanced Databases, Advanced Software Engineering, Cloud Computing, Software Specification &amp; Verification, Big Data &amp; Data Mining, Special Studies -- Algorithms &amp; Data Structures in Practice (now called Algorithms in the Real World), <a href="https://github.com/sschoeller/798Quantum">Individual Studies -- Quantum Computing</a><br>
+<b>Undergraduate (300 &amp; 400 level)</b>: Statistics (Applied Statistics, Applied Regression Analysis), Computer Science (Bioinformatics, Computer Networking, Database Management Systems, Web Server &amp; UNIX Administration), Chemistry (Physical Chemistry -- Quantum Mechanics, Supervised Teaching Aide -- Quantitative Analysis lab)<br>
 <br>
 <h3>Continuing Education</h3>
 <b>Coursera</b>: Technical Support Fundamentals (Google)<br>
